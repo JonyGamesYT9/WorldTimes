@@ -4,5 +4,6 @@ branches:
 - main
 projects:
   WorldTimes:
-    path: "icon.png"
+    path: ""
+    icon: "icon.png"
 ...
