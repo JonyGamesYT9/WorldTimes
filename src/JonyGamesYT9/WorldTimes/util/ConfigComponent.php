@@ -26,7 +26,7 @@ class ConfigComponent extends Component {
 
     private array $data;
 
-    public const CONFIG_VERSION = '1';
+    public const CONFIG_VERSION = '1.0.0';
 
     public function __construct() {
         self::setInstance($this);

@@ -1,7 +1,7 @@
 ---
 # Redlive Studios
 # UUID: 42b137d7-92db-4cf9-b26a-aa2e78ac023c
-config-version: '1'
+config-version: '1.0.0'
 
 # Please note that all worlds you register will be loaded automatically when the plugin starts.
 #(There may be issues with corrupted worlds where trying to load them may crash your server.)
