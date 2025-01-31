@@ -1,0 +1,26 @@
+---
+# Redlive Studios
+# UUID: 42b137d7-92db-4cf9-b26a-aa2e78ac023c
+config-version: '1'
+
+# Please note that all worlds you register will be loaded automatically when the plugin starts.
+#(There may be issues with corrupted worlds where trying to load them may crash your server.)
+
+# Example Format:
+#
+#    worlds:
+#      my_world_name:
+#         time: DAY
+#         stop_time: true
+#
+#
+
+# World Times:  DAY, FULL, NIGHT, MIDNIGHT, NOON, SUNRISE, SUNSET
+worlds:
+  world:
+    time: DAY
+    stop_time: true
+  my_other_world:
+    time: NIGHT
+    stop_time: true
+...
